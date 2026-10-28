@@ -1,0 +1,4 @@
+MCA I-SEMESTER
+Python Programming
+File Handling Fuction
+submitted on time.
